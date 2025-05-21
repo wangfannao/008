@@ -28,6 +28,5 @@
 ━━━━━━━━━━━━◆◇◆━━━━━━━━━━━━
 注：本模板采用动态边框符号设计，实际应用时可配合品牌色调整符号颜色。如需数据可视化版本或交互式演示方案，可告知具体需求。
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
- <a href="https://mr.mbd.baidu.com/1iib1ebUDio?8x.html" style="text-decoration: none; color: white; background-color: black; font-size: 32px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉👉&#9829;&#28857;&#25105;&#36827;&#20837;&#9829;&#35266;&#30475;&#20837;&#21475;👈👈</a>
-</div>
+ <a href="https://ms.mbd.baidu.com/1iib4I0JtsI?/22eee" style="text-decoration: none; color: white; background-color: black; font-size: 32px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉&#9829;&#28857;&#25105;&#36827;&#20837;&#9829;&#35266;&#30475;&#20837;&#21475;👈</a></div>
 Check out the [About](about.md) page to learn more about our mission and values.
